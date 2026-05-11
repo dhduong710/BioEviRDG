@@ -1,0 +1,61 @@
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*
+
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+.Python
+
+# ========== Virtual Environment ==========
+venv/
+env/
+.env/
+.venv/
+conda-env/
+
+# ========== Jupyter Notebook ==========
+.ipynb_checkpoints/
+*.ipynb
+
+# ========== PyTorch Model / Checkpoints ==========
+saved_models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# ========== Data Artifacts ==========
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# ========== Logs & Results ==========
+results/
+logs/
+*.log
+wandb/
+runs/
+mlruns/
+
+# ========== IDE ==========
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========== Misc ==========
+.claude/
