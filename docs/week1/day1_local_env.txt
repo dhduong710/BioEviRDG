@@ -1,0 +1,22 @@
+]633;E;echo "DAY 1 - LOCAL ENVIRONMENT";4b308fb9-177e-4881-b31c-b78e54abf25e]633;CDAY 1 - LOCAL ENVIRONMENT
+=========================
+Tue Sep 29 13:39:00 +07 2026
+
+[Git]
+branch=week_1
+commit=4cde51a1bbebc5a9ac90763c01404e78f367d1d0
+
+[Python]
+Python 3.10.12
+
+[Packages]
+torch = 2.5.1+cu121
+torch_cuda = 12.1
+torch_scatter = 2.1.2+pt25cu121
+numpy = 2.2.6
+datasets = 3.6.0
+multiprocess = 0.70.16
+transformers = 4.52.0
+cuda = True
+gpu = NVIDIA GeForce RTX 3060 Laptop GPU
+vram_gb = 6.0
