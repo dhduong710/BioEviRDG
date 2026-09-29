@@ -1,0 +1,11 @@
+auto_mix_prep==0.2.0
+datasets==3.6.0
+fire==0.7.0
+joblib==1.5.0
+matplotlib==3.10.3
+multiprocess==0.70.16
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+tqdm==4.67.1
+transformers==4.52.0

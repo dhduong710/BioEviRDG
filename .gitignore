@@ -59,3 +59,36 @@ mlruns/
 
 # ========== Misc ==========
 .claude/
+
+# ===== BioEviRDG research =====
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Training artifacts
+checkpoints/
+saved_models/
+*.pt
+*.pth
+*.ckpt
+
+# Experiment logs
+logs/
+wandb/
+
+# Temporary files
+*.tmp
+*.log
+
+# Secrets
+.env
+*.pem
